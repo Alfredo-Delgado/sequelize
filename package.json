@@ -58,7 +58,7 @@
     "esdoc-standard-plugin": "^1.0.0",
     "eslint": "^5.6.0",
     "eslint-plugin-jsdoc": "^3.7.1",
-    "eslint-plugin-mocha": "^5.0.0",
+    "eslint-plugin-mocha": "^5.2.1",
     "hints": "^1.x",
     "husky": "^1.1.2",
     "istanbul": "^0.x",
